@@ -46,3 +46,5 @@ backups
 /image-cache/
 /.last-update-result.json
 /teams
+/skills/synced
+/state
