@@ -34,17 +34,6 @@
           }
         ]
       }
-    ],
-    "StopFailure": [
-      {
-        "matcher": "",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "$HOME/.claude/hooks/claude-attn.sh stop_failure"
-          }
-        ]
-      }
     ]
   },
   "enabledPlugins": {
@@ -79,7 +68,7 @@
   "theme": "dark-daltonized",
   "editorMode": "normal",
   "verbose": true,
-  "preferredNotifChannel": "notifications_disabled",
+  "preferredNotifChannel": "auto",
   "autoCompactEnabled": false,
   "switchModelsOnFlag": false,
   "agentPushNotifEnabled": true,
