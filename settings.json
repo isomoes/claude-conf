@@ -72,5 +72,6 @@
   "autoCompactEnabled": false,
   "switchModelsOnFlag": false,
   "agentPushNotifEnabled": true,
-  "skipAutoPermissionPrompt": true
+  "skipAutoPermissionPrompt": true,
+  "model": "sonnet"
 }
